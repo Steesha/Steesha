@@ -1,5 +1,5 @@
 # Steesha
-## About Name
+## About
 The random combination of the first letters that appear when converting my QQ number to English spelling.
 
 Tech-Stack: 
